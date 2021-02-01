@@ -2,14 +2,12 @@
 
 int main()
 {
-  printf("Hello world!\n");
-  printf("Hello again!\n");
+  printf("Hello, Yury!\n");
+  printf("Hello again, Yury!\n");
 
-  float x = 12;
-  float y = x*3;
-  /* printf(x,y); */
+  int i = 5;
 
-  
+  float x = 3.14;
   
   return 11;
 }
